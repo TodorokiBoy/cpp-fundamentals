@@ -1,6 +1,5 @@
 #include <iostream>
 #include <string>
-#include <cctype>
 #include "validation.hpp"
 
 int main() {
